@@ -47,7 +47,8 @@ int main(int argc, char** argv)
     myvector1.push_back(6);
     myvector1.push_back(7);
     myvector1.push_back(8);
-    myvector1.push_back(8);
+    myvector1.push_back(9);
+    myvector1.push_back(10);
     myvector1.insert(1, 46);
 
     std::cout << "Third case: Move to third vector" << std::endl;
